@@ -1,5 +1,13 @@
 # Genmitsu_Software_Firmware_Tech
-* Firmwares on ESP32 for Genmitsu CNC wireless control modules
+* APP,PC software ,Firmwares on ESP32 for Genmitsu control modules
+
+
+
+
+
+
+
+
 
 Offical firmware details:
 https://docs.sainsmart.com/article/4qkblsuyou-genmitsu-wireless-controller
